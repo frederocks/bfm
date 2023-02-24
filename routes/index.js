@@ -38,7 +38,7 @@ function randomNoun(seed) {
   'daughter','place','beginner','advertisement','stream','truck','spade',
   'title','use','start','degree','fog','coach','ring','recess','flame','drain',
   'meal','question','rock','flag','action','yarn','umbrella','believe','dirt',
-  'taste','salt','silk','chin','road','crook','substance','position','fly',
+  'taste','stu','lex','mia', 'salt','silk','chin','road','crook','substance','position','fly',
   'magic','direction','effect','design','girl','doctor','quartz','quince','cup',
   'wealth','idea','needle','alarm','library','car','slope','chance','machine',
   'range','pear','vessel','pin','attraction','error','wall','plant',
